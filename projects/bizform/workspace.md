@@ -23,6 +23,9 @@ backend ──(submodule)──→ browserservice
 | depot-server | TBD | 多租戶設定管理 |
 | elsa-server | TBD | 工作流編排 |
 | browserservice | TBD | 瀏覽器服務 |
+| sql-migration | TBD | DB schema 遷移管理 |
+| stresstest | TBD | 壓力測試與效能驗證 |
+| claudeskills | TBD | BizForm 專屬 Claude skills |
 
 ## Wiki Domain
 
